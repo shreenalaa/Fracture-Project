@@ -117,7 +117,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👩‍⚕️ Author
+## 👷‍♀️ Author
 
 **Shereen Alaa**
 Machine Learning Engineer
